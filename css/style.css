@@ -1,0 +1,14 @@
+/* body {
+  background: gray;
+} */
+.heading {
+  color: red;
+}
+
+[testid="paragraph"] {
+  color: coral;
+}
+
+#contact {
+  color: green;
+}
