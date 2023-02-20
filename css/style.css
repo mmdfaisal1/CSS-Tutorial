@@ -9,6 +9,23 @@
   color: coral;
 }
 
+[testid="hover-test"]:hover {
+  color: green;
+}
+
+#google-link:link {
+  color: black;
+}
+
+#google-link:visited {
+  color: green;
+}
+
+/* adjacent sibling*/
+h4 + p {
+  color: purple;
+}
+
 #contact {
   color: green;
 }
